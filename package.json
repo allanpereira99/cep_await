@@ -1,0 +1,28 @@
+{
+  "name": "cep_await",
+  "version": "1.0.0",
+  "description": "Api for Postcode lookup by address",
+  "main": "./src/main",
+  "scripts": {
+    "test": "node ./src/main"
+  },
+  "author": "allan pereira",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jsdom": "^20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allanpereira99/cep_await.git"
+  },
+  "keywords": [
+    "postcode",
+    "address",
+    "search"
+  ],
+  "bugs": {
+    "url": "https://github.com/allanpereira99/cep_await/issues"
+  },
+  "homepage": "https://github.com/allanpereira99/cep_await#readme"
+}
